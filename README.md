@@ -2,7 +2,7 @@
 
 To be used with Home Assistant Broadlink switch component https://home-assistant.io/components/switch.broadlink/
 
-![samsung air conditioning unit image](https://raw.githubusercontent.com/yahat/broadlink_mini_homeassistant_ir_codes_samsung_air_conditioning_unit_ar12jsfncwknze/master/ac_image.jpg)
+![samsung air conditioning unit ar12jsfncwknze image](https://raw.githubusercontent.com/yahat/broadlink_mini_homeassistant_ir_codes_samsung_air_conditioning_unit_ar12jsfncwknze/master/ac_image_small.jpg)
 
 |mode|temperature|fan|code|
 |--|--|--|--|
