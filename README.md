@@ -1,0 +1,1 @@
+# broadlink_mini_homeassistant_ir_codes_samsung_air_conditioning_unit_ar12jsfncwknze
